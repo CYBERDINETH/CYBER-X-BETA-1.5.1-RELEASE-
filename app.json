@@ -11,17 +11,17 @@
 			"value": "94711421243"
 		    },
 		    "BOT_NAME": {
-			"description": "Change the bot Name here",
+			"description": "cyber-x DINETH",
 			"required": true,
 			"value": "CYBER-X BETA 1.5"
 			},
 			"BOT_NUMBER": {
-			"description": "Change the Bot Number",
+			"description": "94768279142",
 			"required": true,
-			"value": "94778962038"
+			"value": "94768279142"
 			},
 			"STICKERS_NAME": {
-			"description": "Add the Stickers Name",
+			"description": "DINETH MD",
 			"required": true,
 			"value": "ᴋɪɴɢ.ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
 			},
@@ -41,9 +41,24 @@
 			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
 			},
 			"ALIVE_MSG": {
-			"description": "Add Your Alive massage",
+			"description": "Hi I'm CYBER-X MD       WHATS APP BOT  👉👈
+
+What help do you need from me? I am bound to do what you want.🙃
+
+Please give a command as .menu and I will give you the help you need from me...🤗😝
+
+
+ඔබ මාගේ හැම හීනෙම ඈ වෙන්න...🙄
+
+ඔබ මා ගයන ගීතයක වෑ වෙන්න...😊
+
+මුමුනාව් හැම හුස්මේම ගෑවෙන්න...🙃
+
+ෂෘන්ගාරී මා ගාවින්ම වෑහෙන්න...😛
+
+CYBER-X DEPLOY BY NETHMINA",
 			"required": true,
-			"value": "Hellow I'm Alive"
+			"value": ""
 			},
 			"MENU_IMAGE": {
 			"description": "Add Your Name",
@@ -78,7 +93,7 @@
 			"SONGUP_MSG": {
 			"description": "Add Massage For Song Uploading",
 			"required": true,
-			"value": "UPLOADING YOUR SONG PLEASE WAIT..."
+			"value": "චුට්ටක් ඉන්න හොදේ.... සින්දුව දෙන්නම්... ❤️😁..."
 			},
 			"WELCOME_GOODBYE": {
 			"description": "Set 'true' if you want the Welcome and Goodbye massages  add 'false' if you don't",
@@ -86,7 +101,7 @@
 			"value": "true"
 			},
 			"DEPLOYER_NAME": {
-			"description": "Add Your Name",
+			"description": "DEPLOY BY DINETH",
 			"required": true,
 			"value": "DARK ALPHA"
 			},
